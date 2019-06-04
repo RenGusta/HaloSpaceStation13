@@ -5,7 +5,7 @@
 //basically just a resprite
 /obj/item/weapon/gun/projectile/srs99_sniper
 	name = "SRS99 sniper rifle"
-	desc = "Special Applications Rifle, system 99 Anti-Matériel. Deadly at extreme range.  Takes 14.5mm calibre magazines."
+	desc = "Special Applications Rifle, system 99 Anti-MatÃ©riel. Deadly at extreme range.  Takes 14.5mm calibre magazines."
 	icon = 'code/modules/halo/weapons/icons/Weapon Sprites.dmi'
 	icon_state = "SRS99"
 	item_state = "SRS99"
@@ -16,8 +16,8 @@
 	fire_sound = 'code/modules/halo/sounds/SniperShotSoundEffect.ogg'
 	reload_sound = 'code/modules/halo/sounds/SniperRifleReloadSoundEffect.ogg'
 	one_hand_penalty = -1
-	scoped_accuracy = 3
-	accuracy = -2
+	scoped_accuracy = 7
+	accuracy = 0
 	screen_shake = 0
 	burst = 1
 	burst_delay = 2
